@@ -1,0 +1,5 @@
+{
+  "name": "A.H.A ATS OWN PERSONAL AI ASSISTANT",
+  "description": "A high-end AI chat and voice agent specialized in ethical hacking and cyber security with session persistence.",
+  "requestFramePermissions": ["microphone"]
+}
